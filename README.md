@@ -41,6 +41,6 @@ Sou apaixonada por segurança cibernética e proteção de dados, com foco em ap
 [Coursera - Google Academy]
 ---
 
-## 🌟 Certificações (se aplicável)  
+## 🌟 Certificações  
 - [Introdução a Segurança da Informação (Cisco) - 2024]  
 
