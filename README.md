@@ -16,7 +16,7 @@ Sou apaixonada por segurança cibernética e proteção de dados, com foco em ap
 
 ## 🛠️ Habilidades Técnicas  
 - **Segurança da Informação:** Políticas de segurança, análise de vulnerabilidades, gestão de riscos.  
-- **Ferramentas:** CrowdStrike, Neuss.  
+- **Ferramentas:** CrowdStrike, SQL.  
 - **Sistemas Operacionais:** Linux, Windows Server, MacOS.  
 - **Desenvolvimento:** Python, HTML  
 - **Conceitos:** Criptografia, pentest, análise forense.  
